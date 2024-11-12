@@ -1,0 +1,14 @@
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\bin\Debug\net8.0\ReTaskLibrary.exe
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\bin\Debug\net8.0\ReTaskLibrary.deps.json
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\bin\Debug\net8.0\ReTaskLibrary.runtimeconfig.json
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\bin\Debug\net8.0\ReTaskLibrary.dll
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\bin\Debug\net8.0\ReTaskLibrary.pdb
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\obj\Debug\net8.0\ReTaskLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\obj\Debug\net8.0\ReTaskLibrary.AssemblyInfoInputs.cache
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\obj\Debug\net8.0\ReTaskLibrary.AssemblyInfo.cs
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\obj\Debug\net8.0\ReTaskLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\obj\Debug\net8.0\ReTaskLibrary.dll
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\obj\Debug\net8.0\refint\ReTaskLibrary.dll
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\obj\Debug\net8.0\ReTaskLibrary.pdb
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\obj\Debug\net8.0\ReTaskLibrary.genruntimeconfig.cache
+C:\Users\MyLPT\source\repos\ReTaskLibrary\ReTaskLibrary\obj\Debug\net8.0\ref\ReTaskLibrary.dll

@@ -1,0 +1,14 @@
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\bin\Debug\net8.0\ReWeaponTask.exe
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\bin\Debug\net8.0\ReWeaponTask.deps.json
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\bin\Debug\net8.0\ReWeaponTask.runtimeconfig.json
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\bin\Debug\net8.0\ReWeaponTask.dll
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\bin\Debug\net8.0\ReWeaponTask.pdb
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\obj\Debug\net8.0\ReWeaponTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\obj\Debug\net8.0\ReWeaponTask.AssemblyInfoInputs.cache
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\obj\Debug\net8.0\ReWeaponTask.AssemblyInfo.cs
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\obj\Debug\net8.0\ReWeaponTask.csproj.CoreCompileInputs.cache
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\obj\Debug\net8.0\ReWeaponTask.dll
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\obj\Debug\net8.0\refint\ReWeaponTask.dll
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\obj\Debug\net8.0\ReWeaponTask.pdb
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\obj\Debug\net8.0\ReWeaponTask.genruntimeconfig.cache
+C:\Users\MyLPT\source\repos\ReWeaponTask\ReWeaponTask\obj\Debug\net8.0\ref\ReWeaponTask.dll

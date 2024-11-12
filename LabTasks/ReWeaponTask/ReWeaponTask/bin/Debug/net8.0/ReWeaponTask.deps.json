@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReWeaponTask/1.0.0": {
+        "runtime": {
+          "ReWeaponTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReWeaponTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
