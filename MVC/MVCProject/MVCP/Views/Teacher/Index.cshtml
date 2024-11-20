@@ -1,0 +1,11 @@
+﻿@using AB205.Models
+@model List<Teacher>
+<h1>Teacher </h1>
+@foreach (Teacher Teacher in @Model)
+{
+    <p>@Teacher.Id </p>
+    <p>@Teacher.Name </p>
+    <p>@Teacher.Email </p>
+    <p>@Teacher.Description </p>
+
+}

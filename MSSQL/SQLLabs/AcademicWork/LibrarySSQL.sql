@@ -118,3 +118,4 @@ return
         Classestable.Schedule,
         Classestable.Roomname*/
 		select * from GetScheduleByStudentID(1)
+		select * from Students;

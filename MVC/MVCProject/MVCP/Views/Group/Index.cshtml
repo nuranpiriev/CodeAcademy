@@ -1,0 +1,9 @@
+﻿@using AB205.Models
+@model List<GroupName>
+<h1>Group Name </h1>
+@foreach(GroupName groupName in @Model)
+{
+     <p>@groupName.Id </p>
+    <p>@groupName.Group_Name </p>
+
+}
