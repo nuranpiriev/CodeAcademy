@@ -1,0 +1,560 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\areas\\admin\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\areas\\admin\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\areas\\admin\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\areas\\admin\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\migrations\\20241124173601_createserviceandworkstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\migrations\\20241124173601_createserviceandworkstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\views\\singlework\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\views\\singlework\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\controllers\\singleworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\controllers\\singleworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzadminpanelforwork\\purplebuzzadminpanelforwork\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE99B9D-0FB9-4362-9940-9C9700297F6D}|PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj|solutionrelative:purplebuzzadminpanelforwork\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:06:50.306Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\Work\\Index.cshtml*",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\Work\\Index.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T19:08:40.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T18:33:54.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T18:24:03.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:23:49.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T19:25:00.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Program.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Program.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Program.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:31:36.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T15:21:42.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T18:59:45.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-24T18:16:24.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:35:17.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PurpleBuzzAdminPanelForWork.csproj",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T10:37:07.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241124173601_CreateServiceandWorksTable.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Migrations\\20241124173601_CreateServiceandWorksTable.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Migrations\\20241124173601_CreateServiceandWorksTable.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Migrations\\20241124173601_CreateServiceandWorksTable.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Migrations\\20241124173601_CreateServiceandWorksTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:36:01.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Work.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Models\\Work.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Models\\Work.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Models\\Work.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Models\\Work.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:43:24.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:54:10.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\appsettings.json",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\appsettings.json",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\appsettings.json",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T10:36:11.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Models\\Service.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:44:50.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAK4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T10:37:25.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\ViewModels\\Home\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\ViewModels\\Home\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:38:02.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwDcAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T15:33:51.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T15:34:17.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:47:02.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Controllers\\PricingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:48:17.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\SingleWork\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Views\\SingleWork\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\SingleWork\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Views\\SingleWork\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T10:49:55.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Views\\Work\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T10:49:17.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SingleWorkController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Controllers\\SingleWorkController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Controllers\\SingleWorkController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Controllers\\SingleWorkController.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Controllers\\SingleWorkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:49:45.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Controllers\\WorkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:49:03.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\Pricing\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Views\\Pricing\\Index.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAswOQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T10:48:31.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T10:47:12.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T10:46:26.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:46:14.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T10:20:52.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PurpleBuzzAdminPanelForWork",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj",
+              "RelativeDocumentMoniker": "PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj",
+              "RelativeToolTip": "PurpleBuzzAdminPanelForWork\\PurpleBuzzAdminPanelForWork.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T10:20:44.989Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
