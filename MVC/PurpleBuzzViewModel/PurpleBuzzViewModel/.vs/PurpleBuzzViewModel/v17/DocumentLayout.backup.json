@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\models\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\models\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\models\\ourteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\models\\ourteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\migrations\\20241122055948_createdourteamandcontactustable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\migrations\\20241122055948_createdourteamandcontactustable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\purplebuzzviewmodel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\purplebuzzviewmodel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\views\\_viewsimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\views\\_viewsimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\views\\home\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\views\\home\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\views\\home\\pricing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\views\\home\\pricing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\views\\home\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\views\\home\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|c:\\users\\mylpt\\source\\repos\\purplebuzzviewmodel\\purplebuzzviewmodel\\purplebuzzviewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BCFFB96-5969-48EE-8641-72D7F322CDD1}|PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj|solutionrelative:purplebuzzviewmodel\\purplebuzzviewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241122055948_CreatedOurTeamandContactUsTable.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Migrations\\20241122055948_CreatedOurTeamandContactUsTable.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Migrations\\20241122055948_CreatedOurTeamandContactUsTable.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Migrations\\20241122055948_CreatedOurTeamandContactUsTable.cs",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Migrations\\20241122055948_CreatedOurTeamandContactUsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:59:49.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\appsettings.json",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\appsettings.json",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\appsettings.json",
+              "RelativeToolTip": "PurpleBuzzViewModel\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T05:37:31.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "PurpleBuzzViewModel\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:26:50.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PurpleBuzzViewModel",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj",
+              "RelativeToolTip": "PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T05:24:47.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactUs.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Models\\ContactUs.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Models\\ContactUs.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Models\\ContactUs.cs",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Models\\ContactUs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:04:05.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OurTeam.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Models\\OurTeam.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Models\\OurTeam.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Models\\OurTeam.cs*",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Models\\OurTeam.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:01:32.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewsImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\_ViewsImports.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Views\\_ViewsImports.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\_ViewsImports.cshtml",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Views\\_ViewsImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:27:34.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "about.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Home\\about.cshtml.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Views\\Home\\about.cshtml.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Home\\about.cshtml.cs",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Views\\Home\\about.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:00:20.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "work.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Home\\work.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Views\\Home\\work.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Home\\work.cshtml",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Views\\Home\\work.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:01:34.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "pricing.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Home\\pricing.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Views\\Home\\pricing.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Home\\pricing.cshtml",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Views\\Home\\pricing.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:01:16.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Home\\contact.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Views\\Home\\contact.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Home\\contact.cshtml",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Views\\Home\\contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:00:56.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Home\\about.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Views\\Home\\about.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Home\\about.cshtml",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Views\\Home\\about.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:00:16.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PurpleBuzzViewModel.csproj",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj",
+              "RelativeToolTip": "PurpleBuzzViewModel\\PurpleBuzzViewModel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T01:57:58.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Program.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Program.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Program.cs",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:54:03.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T01:52:01.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T01:51:27.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Home\\index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Views\\Home\\index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Views\\Home\\index.cshtml",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Views\\Home\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T01:49:29.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzViewModel\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\source\\repos\\PurpleBuzzViewModel\\PurpleBuzzViewModel\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "PurpleBuzzViewModel\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:45:12.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

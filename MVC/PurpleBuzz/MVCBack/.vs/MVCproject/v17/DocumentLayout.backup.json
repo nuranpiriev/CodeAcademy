@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyLPT\\Desktop\\CodeAcademy\\MVC\\PurpleBuzz\\MVCBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C111DDA-56B6-4304-BD76-7587ABB929B3}|MVCproject\\MVCproject.csproj|c:\\users\\mylpt\\desktop\\codeacademy\\mvc\\purplebuzz\\mvcback\\mvcproject\\views\\_viewsimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C111DDA-56B6-4304-BD76-7587ABB929B3}|MVCproject\\MVCproject.csproj|solutionrelative:mvcproject\\views\\_viewsimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C111DDA-56B6-4304-BD76-7587ABB929B3}|MVCproject\\MVCproject.csproj|c:\\users\\mylpt\\desktop\\codeacademy\\mvc\\purplebuzz\\mvcback\\mvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C111DDA-56B6-4304-BD76-7587ABB929B3}|MVCproject\\MVCproject.csproj|solutionrelative:mvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewsImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\CodeAcademy\\MVC\\PurpleBuzz\\MVCBack\\MVCproject\\Views\\_ViewsImports.cshtml",
+              "RelativeDocumentMoniker": "MVCproject\\Views\\_ViewsImports.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\CodeAcademy\\MVC\\PurpleBuzz\\MVCBack\\MVCproject\\Views\\_ViewsImports.cshtml",
+              "RelativeToolTip": "MVCproject\\Views\\_ViewsImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:27:18.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\CodeAcademy\\MVC\\PurpleBuzz\\MVCBack\\MVCproject\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCproject\\appsettings.json",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\CodeAcademy\\MVC\\PurpleBuzz\\MVCBack\\MVCproject\\appsettings.json",
+              "RelativeToolTip": "MVCproject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T02:24:25.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
